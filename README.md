@@ -12,13 +12,12 @@ This repository contains a project focused on predicting customer churn in the t
 
 ---
 
-## Key Features
+## Features
 
 - **Exploratory Data Analysis (EDA)**: Uncover trends and insights using data visualizations.
 - **Data Preprocessing**: Handle missing values, categorical encoding, and scaling.
-- **Feature Engineering**: Select and create relevant features to improve model performance.
-- **Machine Learning Models**: Train and evaluate models such as Logistic Regression, Random Forest, and XGBoost.
-- **Evaluation Metrics**: Assess model performance using metrics like accuracy, precision, recall, and F1-score.
+- **Machine Learning Models**: Train and evaluate model using Random Forest.
+- **Evaluation Metrics**: Assess model performance using metrics using accuracy score.
 
 ---
 
@@ -29,7 +28,8 @@ This repository contains a project focused on predicting customer churn in the t
 - **NumPy**  
 - **Matplotlib**  
 - **Seaborn**  
-- **scikit-learn** 
+- **scikit-learn**
+- **Imbalanced-learn**
 
 ---
 
