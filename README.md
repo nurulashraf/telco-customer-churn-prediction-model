@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Telco Customer Churn Prediction Model
 
 This repository contains a project focused on predicting customer churn in the telecommunications industry using machine learning techniques. The goal is to build a predictive model that helps identify customers likely to churn, enabling businesses to take proactive retention measures.
 
