@@ -8,7 +8,6 @@ This repository contains a project focused on predicting customer churn in the t
 
 - **`data/`**: Contains the dataset used for analysis and prediction.
 - **`notebooks/`**: Jupyter notebooks for data analysis, feature engineering, and model building.
-- **`results/`**: Model evaluation metrics and visualizations.
 - **`README.md`**: Project overview and usage instructions.
 
 ---
