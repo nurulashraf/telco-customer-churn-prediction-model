@@ -51,9 +51,3 @@ This repository contains a project focused on predicting customer churn in the t
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
